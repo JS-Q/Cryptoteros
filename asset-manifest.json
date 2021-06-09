@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JS-Q/Cryptoteros/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/JS-Q/Cryptoteros/static/js/main.60d540c8.chunk.js",
+    "main.js.map": "/JS-Q/Cryptoteros/static/js/main.60d540c8.chunk.js.map",
+    "runtime-main.js": "/JS-Q/Cryptoteros/static/js/runtime-main.75719ce0.js",
+    "runtime-main.js.map": "/JS-Q/Cryptoteros/static/js/runtime-main.75719ce0.js.map",
+    "static/js/2.fe532cae.chunk.js": "/JS-Q/Cryptoteros/static/js/2.fe532cae.chunk.js",
+    "static/js/2.fe532cae.chunk.js.map": "/JS-Q/Cryptoteros/static/js/2.fe532cae.chunk.js.map",
+    "static/js/3.085c70be.chunk.js": "/JS-Q/Cryptoteros/static/js/3.085c70be.chunk.js",
+    "static/js/3.085c70be.chunk.js.map": "/JS-Q/Cryptoteros/static/js/3.085c70be.chunk.js.map",
+    "index.html": "/JS-Q/Cryptoteros/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/JS-Q/Cryptoteros/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fe532cae.chunk.js.LICENSE.txt": "/JS-Q/Cryptoteros/static/js/2.fe532cae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75719ce0.js",
+    "static/js/2.fe532cae.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.60d540c8.chunk.js"
+  ]
+}
